@@ -1,7 +1,7 @@
-- BookDeck - For Book Enthusiasts
+#  BookDeck - For Book Enthusiasts
 - A program to help organize your book collection!
 
-:::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 				 To-Do List
 * Deleting from a tree node is not working, need to fix as program crashes once deletion operation is called
